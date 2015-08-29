@@ -1,0 +1,10 @@
+{'name': 'book0', 'author': 'author0', 'price':'5000'}
+{'name': 'book1', 'author': 'author1', 'price':'10000'}
+{'name': 'book2', 'author': 'author2', 'price':'20000'}
+{'name': 'book3', 'author': 'author3', 'price':'30000'}
+{'name': 'book4', 'author': 'author4', 'price':'40000'}
+{'name': 'book5', 'author': 'author5', 'price':'50000'}
+{'name': 'book6', 'author': 'author6', 'price':'60000'}
+{'name': 'book7', 'author': 'author7', 'price':'70000'}
+{'name': 'book8', 'author': 'author8', 'price':'80000'}
+{'name': 'book9', 'author': 'author9', 'price':'90000'}
